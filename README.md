@@ -4,13 +4,20 @@ A simple and interactive web-based music player built using HTML, CSS, and JavaS
 
 ---
 
+## 🔗 Live Demo & Repository
+
+* 🚀 **Live Demo:** https://glittery-salamander-2e22dd.netlify.app/
+* 💻 **GitHub Repo:** https://github.com/mohan2-hash/Music-Player
+
+---
+
 ## 🚀 Features
 
 * ▶️ Play / Pause songs
 * ⏭ Next / Previous track navigation
 * 🎚 Audio playback control
-* 📱 Responsive UI (basic)
 * 🎧 Smooth user interaction
+* 🌐 Works directly in the browser (no installation needed)
 
 ---
 
@@ -35,7 +42,7 @@ Music-Player/
 
 ---
 
-## ⚙️ How to Run
+## ⚙️ How to Run Locally
 
 1. Clone the repository:
 
@@ -55,18 +62,18 @@ Music-Player/
 
 ## 📸 Screenshots
 
-*(Add screenshots or GIFs here to showcase UI and functionality)*
+*(Tip: Add screenshots or a GIF here — this will greatly improve your portfolio impact)*
 
 ---
 
 ## 💡 Future Improvements
 
-* 🎼 Add playlist support
+* 🎼 Playlist support
 * 🔊 Volume control slider
 * ⏱ Progress bar with seek functionality
 * 🔁 Shuffle & repeat modes
 * 🌙 Dark mode UI
-* 📡 Fetch songs dynamically (API integration)
+* 📡 Dynamic song loading (API integration)
 * ⚛️ Convert into a React-based app
 
 ---
@@ -86,8 +93,6 @@ This project helped in understanding:
 
 Contributions are welcome!
 
-If you'd like to improve this project:
-
 1. Fork the repo
 2. Create a new branch
 3. Make your changes
@@ -101,12 +106,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 🙌 Acknowledgements
-
-Inspired by basic media player applications and built as a hands-on learning project.
-
----
-
 ## 👨‍💻 Author
 
 **Mohan**
@@ -115,5 +114,5 @@ Inspired by basic media player applications and built as a hands-on learning pro
 
 ---
 
-⭐ If you like this project, don't forget to give it a star!
+⭐ If you like this project, don’t forget to give it a star!
 
